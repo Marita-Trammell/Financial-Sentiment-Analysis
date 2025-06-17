@@ -44,7 +44,7 @@ Annotations come from domain experts and business-school students (κ ≈ 0.75).
 
 ---
 
-## 🛠Models Evaluated  
+## Models Evaluated  
 | Model | Key Idea | Params | Macro-F1 |
 |-------|----------|-------:|---------:|
 | TF-IDF + LogReg | Sparse baseline | 50 k | 0.68 |
